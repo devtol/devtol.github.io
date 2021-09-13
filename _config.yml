@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "Devtol"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : ""
-  email            :
+  #bio              : "I am an **amazing** person."
+  location         : "Changwon, Republic of Korea"
+  email            : "grape0116@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
