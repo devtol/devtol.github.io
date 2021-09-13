@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "개발자란 무엇인가."
   location         : "Changwon, Republic of Korea"
-  email            : "grape0116@gmail.com"
+  #email            : "grape0116@gmail.com"
   links:
     - label: "grape0116@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
