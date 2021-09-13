@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Posts"
-    url: https://mmistakes.github.io/
+    url: https://devtol.github.io/docs/quick-start-guide
   #- title: "Sample Collections"
   #  url: /collection-archive/
   - title: "Sitemap"
