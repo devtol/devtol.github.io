@@ -1,6 +1,6 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
-Developer + 밤톨 = Devtol
