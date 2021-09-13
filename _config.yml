@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Devtol"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "개발자란 무엇인가."
+  bio              : ""
   location         : "Changwon, Republic of Korea"
   #email            : "grape0116@gmail.com"
   links:
